@@ -10,6 +10,16 @@
         "tags": "java, swing, security, file-protection-system"
     },
     {
+        "name": "expense-tracker",
+        "display": "Expense Tracker",
+        "description": "A react app that keeps track of expenses",
+        "author": "UribeJr",
+        "category": "web app",
+        "level": "intermediate",
+        "site": "https://uribejr.github.io/react-expense-tracker/",
+        "tags": "html, css, js, react"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",
